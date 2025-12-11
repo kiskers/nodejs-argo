@@ -8,7 +8,7 @@ on:
       - 'index.js'
       - 'package.json'
   pull_request:
-    branches: [ main ]
+    branches: [ koyeb ]
   workflow_dispatch:
 
 jobs:
